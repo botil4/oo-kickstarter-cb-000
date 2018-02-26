@@ -1,9 +1,9 @@
 class Project
 
-  attr_reader :name
+  attr_reader :title
 
-  def initialize(name)
-    @name = name
+  def initialize(title)
+    @title = title
   end
 
 end
