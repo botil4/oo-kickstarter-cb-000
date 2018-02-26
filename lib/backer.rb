@@ -1,4 +1,4 @@
-def Backer
+class Backer
 
   attr_reader :name
 
